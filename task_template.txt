@@ -1,0 +1,9 @@
+Day 1: Installed Docker, Hello World container
+Day 2: Built Static Website container (Nginx)
+Day 3: Built Personal Notes API container (Flask/Express)
+Day 4: Added volumes & networking
+Day 5: Big lab: polish all Docker projects
+Day 6: Optional practice: mini Docker experiments
+Day 7: Weekly review & combine Week 1 projects
+...
+Day 28: Backup & finalize GitHub repo
