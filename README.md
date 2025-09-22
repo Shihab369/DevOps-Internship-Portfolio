@@ -1,6 +1,3 @@
-![Progress](https://img.shields.io/badge/Progress-7%25-brightgreen)
-![Progress](https://img.shields.io/badge/Progress-7%25-brightgreen)
-![Progress](https://img.shields.io/badge/Progress-3%25-brightgreen)
 # DevOps Internship Portfolio
 
 ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
