@@ -4,6 +4,8 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-green)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.27-blue)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
+![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)
+
 
 ---
 
