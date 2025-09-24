@@ -1,6 +1,6 @@
 # Day 1 â€“ Linux Basics & Hands-On Projects
 
-## í³– Overview
+## Overview
 On Day 1, I completed my **Linux fundamentals journey**, covering:
 - File system structure & navigation
 - File and directory operations
@@ -18,7 +18,7 @@ Linux is the **foundation of DevOps** â€” mastering these skills ensures I can w
 
 ---
 
-## í³‚ Whatâ€™s Included
+## Whatâ€™s Included
 1. **linux_cheatsheet.md**  
    - Quick reference of all important Linux commands.
 
@@ -39,7 +39,7 @@ Linux is the **foundation of DevOps** â€” mastering these skills ensures I can w
 
 ---
 
-## íº€ Key Learning
+## Key Learning
 - Practicing commands in scripts makes them reusable and automatable.  
 - Managing users, groups, and permissions builds **real-world sysadmin skills**.  
 - Understanding processes, services, and logs is critical for **troubleshooting in DevOps**.  
@@ -47,7 +47,7 @@ Linux is the **foundation of DevOps** â€” mastering these skills ensures I can w
 
 ---
 
-## í³¸ Demo (example output)
+## Demo (example output)
 ```bash
 $ ./sys_monitor.sh
 ===== Date =====
