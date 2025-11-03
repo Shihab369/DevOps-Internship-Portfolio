@@ -11,9 +11,7 @@
 
 ## Motivation
 
-I chose **DevOps** because I love exploring new things, solving errors, and building automation — it gives me a vibe and thrill.  
-
-Through this 4-week learning journey, I want to show recruiters and everyone that **anyone can achieve something meaningful in just 4 weeks**, even if they start from zero, just like me.  
+I chose **DevOps** because I love exploring new things, solving errors, and building automation — it gives me a vibe and thrill.    
 
 My personal goal is to **scale up my learning, gain confidence, and showcase my ability to apply DevOps in real projects**, which can help me land an internship or a job.
 
