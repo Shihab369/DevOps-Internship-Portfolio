@@ -9,10 +9,6 @@
 
 ---
 
-## Motivation
-
-I chose **DevOps** because I love exploring new things, solving errors, and building automation — it gives me a vibe and thrill.    
-
 My personal goal is to **scale up my learning, gain confidence, and showcase my ability to apply DevOps in real projects**, which can help me land an internship or a job.
 
 ---
@@ -88,9 +84,4 @@ Each project folder contains:
 - **Email:** shihabuddinoffice@gmail.com  
 
 ---
-
-## Inspirational Note
-
-*"You don’t need to start as a genius — dedication, consistency, and curiosity can take you far. Even in 4 weeks, you can learn, build, and grow if you give it your all."*
-
 
