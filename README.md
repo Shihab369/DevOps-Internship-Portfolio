@@ -1,4 +1,4 @@
-# DevOps Internship Portfolio
+# DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-20.10-blue)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-green)
